@@ -34,5 +34,6 @@ Write the code and check for errors in Notepad++ Download Version 8.6.8 On Windo
 Run it on Shell Environment on Anaconda Prompt:
 To run the Following OPENAI API 
 1) locate to where you have stored the File.
-2) Foex executing type python chat-completions.py   Note: Write the File Name you saved as.
+2) For executing type python chat-completions.py   Note: Write the File Name you saved as.
 
+https://chatgpt.com/c/a4d604b9-07fc-4d02-8c72-30610cc7a2b0. 
